@@ -1,0 +1,6 @@
+#Ignore IDEA files
+.idea/
+ProductsStorage.iml
+
+#Ignore build
+target/
